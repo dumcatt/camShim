@@ -1,6 +1,6 @@
 # camShim
 finale cam control
-
+![preview](img.png)
 # Dependencies 
 ```
 pip install dearpygui pyserial

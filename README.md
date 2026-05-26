@@ -1,0 +1,2 @@
+# camShim
+finale cam control
